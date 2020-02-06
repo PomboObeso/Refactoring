@@ -1,6 +1,6 @@
 # Refatoramento
 
-Projeto escrito, compilado e testado  no ItelliJ com JDK 12.0.1
+Projeto escrito, compilado e testado  no IntelliJ com JDK 12.0.1
 Os códigos se encontram em: Projeto POO\src\com\company
 
 ## Padrões Usados
@@ -12,3 +12,7 @@ Os códigos se encontram em: Projeto POO\src\com\company
 **3 - Extract Method Pattern:** Aplicado na classe *Extractor*.
 
 **4 - Factory Pattern:** Referente as classe *FuncionarioFActory* e *TypeFactory*.
+
+
+
+#### Projeto original: https://github.com/Jeremias666/Projeto-Java
