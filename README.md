@@ -3,6 +3,7 @@
 Projeto escrito, compilado e testado  no IntelliJ com JDK 12.0.1
 
 Código pego no Github e refatorado para metade parcial da Disciplina Projeto de Software 2019.2
+
 Os códigos se encontram em: Projeto POO\src\com\company
 
 ## Padrões Usados
